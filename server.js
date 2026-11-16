@@ -9,7 +9,7 @@ app.use(express.json());
 
 // ከ Chapa Dashboard የሚወስዱት Secret Key
 const CHAPA_SECRET_KEY = 'CHASECK_TEST-xxxxxxxxxxxxxxxxxxxxxxxx';
-const SERVER_URL = 'https://onrender.com'; // ሰርቨርዎን የጫኑበት ሊንክ
+const SERVER_URL = https://bingo-gold-a-1.onrender.com
 const BOT_USERNAME = 'YOUR_BOT_USERNAME'; // የቴሌግራም ቦትዎ ስም ያለ @
 
 const DB_FILE = './database.json';
